@@ -43,10 +43,20 @@ qr-inventory-management
 │   └── appscript.js
 │
 ├── Videos
+│   ├── Interview Video.mp4
+│   └── Demonstration Video.mp4
 │
 ├── Images
+│   ├── Interview image.jpg
+│   ├── Observation image.jpg
+│   ├── Organization Visit Image.jpg
+│   └── Block Digram.jpg
 │
 ├── Documents
+│   ├── QR Code.docx
+│   ├── REPORT_FIELD_PROJECT.docx
+│   ├── Comparative Analysis of QR Code.docx
+│   ├── Field Project Synopsis.docs
 │   └── QR BASED INVENTORY MANAGEMENT SYSTEM.pptx
 │
 └── README.md
