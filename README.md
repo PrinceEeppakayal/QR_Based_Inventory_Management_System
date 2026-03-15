@@ -36,7 +36,7 @@ This project proposes a **low-cost IoT-based solution** that automates inventory
 
 ## Project Structure
 ```
-qr-inventory-management
+qr-based-inventory-management-system
 │
 ├── Codes
 │   ├── IMS.ino
@@ -51,7 +51,7 @@ qr-inventory-management
 │   ├── Observation image.jpg
 │   ├── Organization Visit Image.jpg
 │   ├── Google Sheet.png
-│   └── Block Digram.jpg
+│   └── Block Diagram.jpg
 │
 ├── Documents
 │   ├── QR Code.docx
